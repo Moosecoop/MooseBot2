@@ -1,0 +1,26 @@
+{
+  "name": "moosebot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --harmony app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moosecoop/MooseBot2.git"
+  },
+  "author": "moosecoop <admin@moosecoop.com> (https://moosecoop.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moosecoop/MooseBot2/issues"
+  },
+  "homepage": "https://github.com/Moosecoop/MooseBot2#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "komada": "^0.19.2",
+    "path": "^0.12.7",
+    "url": "^0.11.0",
+    "ytdl-core": "^0.14.2"
+  }
+}
