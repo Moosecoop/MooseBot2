@@ -1,6 +1,6 @@
 const ytdl = require('ytdl-core');
 
-exports.run = (client, msg, [link, volume = 1]) => {
+exports.run = (client, msg, [link]) => {
   const voiceChannel = msg.member.voiceChannel;
   let options = {
     seek: 0,
@@ -14,7 +14,7 @@ exports.run = (client, msg, [link, volume = 1]) => {
       let message = msg.reply('Playing song');
       const stream = ytdl(link, { filter: 'audioonly' });
       const dispatcher = connnection.playStream(stream, options);
-      dispatcher.on('end', () => message.edit(`Played song`));
+      dispatcher.on('end', () => voiceChannel.leave());
     });
 };
 
@@ -30,7 +30,7 @@ exports.conf = {
 exports.help = {
   name: "play",
   description: "plays a youtube video's audio (requires yt video link)",
-  usage: "<link:str>, [volume:float{0,1}]",
-  usageDelim: "volume must be somewhere between 0 and 1",
+  usage: "<link:str>",
+  usageDelim: "",
 };
 
