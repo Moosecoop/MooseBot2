@@ -11,6 +11,7 @@ exports.run = (client, msg, [link]) => {
   if (!voiceChannel) return msg.reply(`Please be in a voice channel first!`);
   voiceChannel.join()
     .then(connnection => {
+      connnection.setVolume(.5);
       let message = msg.reply('Playing song');
       const stream = ytdl(link, { filter: 'audioonly' });
       const dispatcher = connnection.playStream(stream, options);
