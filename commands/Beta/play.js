@@ -1,6 +1,6 @@
 const ytdl = require('ytdl-core');
 
-exports.run = (client, msg, [quality = 1, link]) => {
+exports.run = (client, msg, [link]) => {
   const voiceChannel = msg.member.voiceChannel;
   let options = {
     seek: 0,
@@ -30,7 +30,7 @@ exports.conf = {
 exports.help = {
   name: "play",
   description: "plays a youtube video's audio (requires yt video link)",
-  usage: "[quality:int] <link:str>",
+  usage: "<link:str>",
   usageDelim: "Quality is the amount of times the voice packet will be sent, increase it if the quality is poor",
 };
 
