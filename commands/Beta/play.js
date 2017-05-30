@@ -1,6 +1,6 @@
 const ytdl = require('ytdl-core');
 
-exports.run = (client, msg, [link, volume]) => {
+exports.run = (client, msg, [link, volume = 1]) => {
   const voiceChannel = msg.member.voiceChannel;
   let options = {
     seek: 0,
