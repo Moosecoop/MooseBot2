@@ -2,18 +2,22 @@ const ytdl = require('ytdl-core');
 
 exports.run = (client, msg, [link]) => {
   const voiceChannel = msg.member.voiceChannel;
+  if(link = "") {
+    vLink = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
+  } else {
+    vLink = link;
+  }
   let options = {
     seek: 0,
     volume: .5,
     passes: 5
   };
-  
+
   if (!voiceChannel) return msg.reply(`Please be in a voice channel first!`);
   voiceChannel.join()
     .then(connnection => {
-      connnection.setVolume(.5);
       let message = msg.reply('Playing song');
-      const stream = ytdl(link, { filter: 'audioonly' });
+      const stream = ytdl(vLink, { filter: 'audioonly' });
       const dispatcher = connnection.playStream(stream, options);
       dispatcher.on('end', () => voiceChannel.leave());
     });
@@ -31,7 +35,7 @@ exports.conf = {
 exports.help = {
   name: "play",
   description: "plays a youtube video's audio (requires yt video link)",
-  usage: "<link:str>",
+  usage: "[link:str]",
   usageDelim: "Quality is the amount of times the voice packet will be sent, increase it if the quality is poor",
 };
 
