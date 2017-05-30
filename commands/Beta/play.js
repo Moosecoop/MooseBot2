@@ -5,7 +5,7 @@ exports.run = (client, msg, [link]) => {
   let options = {
     seek: 0,
     volume: .5,
-    passes: quality
+    passes: 5
   };
   
   if (!voiceChannel) return msg.reply(`Please be in a voice channel first!`);
