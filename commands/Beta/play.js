@@ -4,7 +4,7 @@ exports.run = (client, msg, [link]) => {
   const voiceChannel = msg.member.voiceChannel;
   let options = {
     seek: 0,
-    volume: volume,
+    volume: .5,
     passes: 3
   };
   
