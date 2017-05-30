@@ -30,7 +30,7 @@ exports.conf = {
 exports.help = {
   name: "play",
   description: "plays a youtube video's audio (requires yt video link)",
-  usage: "[quality:int] - <link:str>",
+  usage: "[quality:int] <link:str>",
   usageDelim: "Quality is the amount of times the voice packet will be sent, increase it if the quality is poor",
 };
 
