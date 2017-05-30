@@ -30,7 +30,7 @@ exports.conf = {
 exports.help = {
   name: "play",
   description: "plays a youtube video's audio (requires yt video link)",
-  usage: "<str:link>, [int:volume]",
+  usage: "<link:str>, [volume:float{0,1}]",
   usageDelim: "volume must be somewhere between 0 and 1",
 };
 
