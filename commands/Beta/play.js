@@ -2,7 +2,8 @@ const ytdl = require('ytdl-core');
 
 exports.run = (client, msg, [link]) => {
   const voiceChannel = msg.member.voiceChannel;
-  if(link = "") {
+  if (link = null
+  ) {
     vLink = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
   } else {
     vLink = link;
