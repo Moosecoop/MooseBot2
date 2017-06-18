@@ -19,3 +19,4 @@ github-*.zip
 
 # Tokens
 tokens.json
+/nbproject/private/

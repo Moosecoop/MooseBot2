@@ -17,11 +17,15 @@
   },
   "homepage": "https://github.com/Moosecoop/MooseBot2#readme",
   "dependencies": {
+    "coin-ticker": "^1.3.0",
+    "coinbase": "^2.0.6",
+    "discord.js": "^11.1.0",
     "express": "^4.15.3",
     "komada": "^0.19.2",
     "node-opus": "^0.2.6",
     "nodemon": "^1.11.0",
     "path": "^0.12.7",
+    "superagent": "^3.5.2",
     "url": "^0.11.0",
     "ytdl-core": "^0.14.2"
   }
