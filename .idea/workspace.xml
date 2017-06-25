@@ -2,251 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d52aa03e-3150-42bb-9e2f-7e28450d1f1b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/LICENSE" afterPath="$PROJECT_DIR$/node_modules/asynckit/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/README.md" afterPath="$PROJECT_DIR$/node_modules/asynckit/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/bench.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/bench.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/index.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/abort.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/abort.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/async.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/defer.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/defer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/iterate.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/iterate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_asynckit.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_asynckit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_parallel.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_parallel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_serial.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_serial.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_serial_ordered.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_serial_ordered.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/state.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/state.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/streamify.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/streamify.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/terminator.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/terminator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/package.json" afterPath="$PROJECT_DIR$/node_modules/asynckit/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/parallel.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/parallel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/serial.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/serial.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/serialOrdered.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/serialOrdered.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/asynckit/stream.js" afterPath="$PROJECT_DIR$/node_modules/asynckit/stream.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/combined-stream/License" afterPath="$PROJECT_DIR$/node_modules/combined-stream/License" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/combined-stream/Readme.md" afterPath="$PROJECT_DIR$/node_modules/combined-stream/Readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/combined-stream/lib/combined_stream.js" afterPath="$PROJECT_DIR$/node_modules/combined-stream/lib/combined_stream.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/combined-stream/package.json" afterPath="$PROJECT_DIR$/node_modules/combined-stream/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/component-emitter/package.json" afterPath="$PROJECT_DIR$/node_modules/component-emitter/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cookiejar/LICENSE" afterPath="$PROJECT_DIR$/node_modules/cookiejar/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cookiejar/cookiejar.js" afterPath="$PROJECT_DIR$/node_modules/cookiejar/cookiejar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cookiejar/package.json" afterPath="$PROJECT_DIR$/node_modules/cookiejar/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cookiejar/readme.md" afterPath="$PROJECT_DIR$/node_modules/cookiejar/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/delayed-stream/.npmignore" afterPath="$PROJECT_DIR$/node_modules/delayed-stream/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/delayed-stream/License" afterPath="$PROJECT_DIR$/node_modules/delayed-stream/License" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/delayed-stream/Makefile" afterPath="$PROJECT_DIR$/node_modules/delayed-stream/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/delayed-stream/Readme.md" afterPath="$PROJECT_DIR$/node_modules/delayed-stream/Readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/delayed-stream/lib/delayed_stream.js" afterPath="$PROJECT_DIR$/node_modules/delayed-stream/lib/delayed_stream.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/delayed-stream/package.json" afterPath="$PROJECT_DIR$/node_modules/delayed-stream/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/.gitmodules" afterPath="$PROJECT_DIR$/node_modules/discord.js/.gitmodules" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/.npmignore" afterPath="$PROJECT_DIR$/node_modules/discord.js/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/.tern-project" afterPath="$PROJECT_DIR$/node_modules/discord.js/.tern-project" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/LICENSE" afterPath="$PROJECT_DIR$/node_modules/discord.js/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/README.md" afterPath="$PROJECT_DIR$/node_modules/discord.js/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/package.json" afterPath="$PROJECT_DIR$/node_modules/discord.js/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/Client.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/Client.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/ClientDataManager.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/ClientDataManager.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/ClientDataResolver.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/ClientDataResolver.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/ClientManager.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/ClientManager.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/WebhookClient.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/WebhookClient.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/Action.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/Action.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/ActionsManager.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/ActionsManager.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/ChannelCreate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/ChannelCreate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/ChannelDelete.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/ChannelDelete.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/ChannelUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/ChannelUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildBanRemove.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildBanRemove.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildChannelsPositionUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildChannelsPositionUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildDelete.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildDelete.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildEmojiCreate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildEmojiCreate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildEmojiDelete.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildEmojiDelete.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildEmojiUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildEmojiUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildEmojisUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildEmojisUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildMemberGet.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildMemberGet.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildMemberRemove.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildMemberRemove.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildRoleCreate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildRoleCreate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildRoleDelete.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildRoleDelete.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildRoleUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildRoleUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildRolesPositionUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildRolesPositionUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildSync.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildSync.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/GuildUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/MessageCreate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/MessageCreate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/MessageDelete.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/MessageDelete.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/MessageDeleteBulk.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/MessageDeleteBulk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/MessageReactionAdd.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/MessageReactionAdd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/MessageReactionRemove.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/MessageReactionRemove.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/MessageReactionRemoveAll.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/MessageReactionRemoveAll.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/MessageUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/MessageUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/UserGet.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/UserGet.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/UserNoteUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/UserNoteUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/UserUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/actions/UserUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/rest/APIRequest.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/rest/APIRequest.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/rest/DiscordAPIError.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/rest/DiscordAPIError.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/rest/RESTManager.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/rest/RESTManager.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/rest/RESTMethods.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/rest/RESTMethods.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/rest/RequestHandlers/Burst.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/rest/RequestHandlers/Burst.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/rest/RequestHandlers/RequestHandler.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/rest/RequestHandlers/RequestHandler.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/rest/RequestHandlers/Sequential.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/rest/UserAgentManager.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/rest/UserAgentManager.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/ClientVoiceManager.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/ClientVoiceManager.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/VoiceBroadcast.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/VoiceBroadcast.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/VoiceConnection.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/VoiceConnection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/VoiceUDPClient.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/VoiceUDPClient.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/VoiceWebSocket.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/VoiceWebSocket.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/dispatcher/StreamDispatcher.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/dispatcher/StreamDispatcher.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/opus/BaseOpusEngine.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/opus/BaseOpusEngine.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/opus/NodeOpusEngine.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/opus/NodeOpusEngine.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/opus/OpusEngineList.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/opus/OpusEngineList.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/opus/OpusScriptEngine.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/opus/OpusScriptEngine.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/player/AudioPlayer.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/player/AudioPlayer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/receiver/VoiceReadable.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/receiver/VoiceReadable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/receiver/VoiceReceiver.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/receiver/VoiceReceiver.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/util/SecretKey.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/util/SecretKey.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/util/Secretbox.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/util/Secretbox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/util/VolumeInterface.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/voice/util/VolumeInterface.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/WebSocketConnection.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/WebSocketConnection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/WebSocketManager.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/WebSocketManager.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/WebSocketPacketManager.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/WebSocketPacketManager.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/AbstractHandler.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/AbstractHandler.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/ChannelCreate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/ChannelCreate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/ChannelDelete.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/ChannelDelete.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/ChannelPinsUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/ChannelPinsUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/ChannelUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/ChannelUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildBanAdd.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildBanAdd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildBanRemove.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildBanRemove.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildCreate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildCreate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildDelete.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildDelete.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildEmojisUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildEmojisUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildMemberAdd.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildMemberAdd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildMemberRemove.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildMemberRemove.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildMemberUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildMemberUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildMembersChunk.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildMembersChunk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildRoleCreate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildRoleCreate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildRoleDelete.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildRoleDelete.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildRoleUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildRoleUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildSync.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildSync.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/GuildUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/MessageCreate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/MessageCreate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/MessageDelete.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/MessageDelete.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/MessageDeleteBulk.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/MessageDeleteBulk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/MessageReactionAdd.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/MessageReactionAdd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/MessageReactionRemove.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/MessageReactionRemove.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/MessageReactionRemoveAll.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/MessageReactionRemoveAll.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/MessageUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/MessageUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/PresenceUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/PresenceUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/Ready.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/Ready.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/RelationshipAdd.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/RelationshipAdd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/RelationshipRemove.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/RelationshipRemove.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/Resumed.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/Resumed.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/TypingStart.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/TypingStart.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/UserNoteUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/UserNoteUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/UserSettingsUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/UserSettingsUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/UserUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/UserUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/VoiceServerUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/VoiceServerUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/VoiceStateUpdate.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/client/websocket/packets/handlers/VoiceStateUpdate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/index.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/sharding/Shard.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/sharding/Shard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/sharding/ShardClientUtil.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/sharding/ShardClientUtil.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/sharding/ShardingManager.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/sharding/ShardingManager.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/Channel.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/Channel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/ClientUser.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/ClientUser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/ClientUserSettings.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/ClientUserSettings.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/DMChannel.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/DMChannel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/Emoji.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/Emoji.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/GroupDMChannel.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/GroupDMChannel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/Guild.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/Guild.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/GuildAuditLogs.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/GuildAuditLogs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/GuildChannel.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/GuildChannel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/GuildMember.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/GuildMember.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/Invite.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/Invite.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/Message.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/Message.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/MessageAttachment.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/MessageAttachment.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/MessageCollector.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/MessageCollector.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/MessageEmbed.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/MessageEmbed.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/MessageMentions.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/MessageMentions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/MessageReaction.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/MessageReaction.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/OAuth2Application.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/OAuth2Application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/PartialGuild.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/PartialGuild.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/PartialGuildChannel.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/PartialGuildChannel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/PermissionOverwrites.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/PermissionOverwrites.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/Presence.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/Presence.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/ReactionCollector.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/ReactionCollector.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/ReactionEmoji.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/ReactionEmoji.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/RichEmbed.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/RichEmbed.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/Role.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/Role.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/TextChannel.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/TextChannel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/User.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/User.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/UserConnection.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/UserConnection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/UserProfile.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/UserProfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/VoiceChannel.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/VoiceChannel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/VoiceRegion.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/VoiceRegion.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/Webhook.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/Webhook.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/interfaces/Collector.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/interfaces/Collector.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/util/Collection.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/util/Collection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/util/Constants.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/util/Constants.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/util/Permissions.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/util/Permissions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/util/Snowflake.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/util/Snowflake.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/src/util/Util.js" afterPath="$PROJECT_DIR$/node_modules/discord.js/src/util/Util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/discord.js/typings/README.md" afterPath="$PROJECT_DIR$/node_modules/discord.js/typings/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/extend/.eslintrc" afterPath="$PROJECT_DIR$/node_modules/extend/.eslintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/extend/.jscs.json" afterPath="$PROJECT_DIR$/node_modules/extend/.jscs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/extend/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/extend/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/extend/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/extend/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/extend/LICENSE" afterPath="$PROJECT_DIR$/node_modules/extend/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/extend/README.md" afterPath="$PROJECT_DIR$/node_modules/extend/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/extend/component.json" afterPath="$PROJECT_DIR$/node_modules/extend/component.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/extend/index.js" afterPath="$PROJECT_DIR$/node_modules/extend/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/extend/package.json" afterPath="$PROJECT_DIR$/node_modules/extend/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/form-data/License" afterPath="$PROJECT_DIR$/node_modules/form-data/License" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/form-data/README.md" afterPath="$PROJECT_DIR$/node_modules/form-data/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/form-data/lib/browser.js" afterPath="$PROJECT_DIR$/node_modules/form-data/lib/browser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/form-data/lib/form_data.js" afterPath="$PROJECT_DIR$/node_modules/form-data/lib/form_data.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/form-data/lib/populate.js" afterPath="$PROJECT_DIR$/node_modules/form-data/lib/populate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/form-data/package.json" afterPath="$PROJECT_DIR$/node_modules/form-data/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/formidable/.npmignore" afterPath="$PROJECT_DIR$/node_modules/formidable/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/formidable/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/formidable/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/formidable/LICENSE" afterPath="$PROJECT_DIR$/node_modules/formidable/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/formidable/Readme.md" afterPath="$PROJECT_DIR$/node_modules/formidable/Readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/formidable/lib/file.js" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/file.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/formidable/lib/incoming_form.js" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/incoming_form.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/formidable/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/formidable/lib/json_parser.js" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/json_parser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/formidable/lib/multipart_parser.js" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/multipart_parser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/formidable/lib/octet_parser.js" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/octet_parser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/formidable/lib/querystring_parser.js" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/querystring_parser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/formidable/package.json" afterPath="$PROJECT_DIR$/node_modules/formidable/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/.npmignore" afterPath="$PROJECT_DIR$/node_modules/superagent/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/superagent/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/.zuul.yml" afterPath="$PROJECT_DIR$/node_modules/superagent/.zuul.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/Contributing.md" afterPath="$PROJECT_DIR$/node_modules/superagent/Contributing.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/History.md" afterPath="$PROJECT_DIR$/node_modules/superagent/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/LICENSE" afterPath="$PROJECT_DIR$/node_modules/superagent/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/Makefile" afterPath="$PROJECT_DIR$/node_modules/superagent/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/Readme.md" afterPath="$PROJECT_DIR$/node_modules/superagent/Readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/changelog.sh" afterPath="$PROJECT_DIR$/node_modules/superagent/changelog.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/docs/head.html" afterPath="$PROJECT_DIR$/node_modules/superagent/docs/head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/docs/index.md" afterPath="$PROJECT_DIR$/node_modules/superagent/docs/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/docs/style.css" afterPath="$PROJECT_DIR$/node_modules/superagent/docs/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/docs/tail.html" afterPath="$PROJECT_DIR$/node_modules/superagent/docs/tail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/docs/test.html" afterPath="$PROJECT_DIR$/node_modules/superagent/docs/test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/lib/client.js" afterPath="$PROJECT_DIR$/node_modules/superagent/lib/client.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/lib/is-function.js" afterPath="$PROJECT_DIR$/node_modules/superagent/lib/is-function.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/lib/is-object.js" afterPath="$PROJECT_DIR$/node_modules/superagent/lib/is-object.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/agent.js" afterPath="$PROJECT_DIR$/node_modules/superagent/lib/node/agent.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/index.js" afterPath="$PROJECT_DIR$/node_modules/superagent/lib/node/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/parsers/image.js" afterPath="$PROJECT_DIR$/node_modules/superagent/lib/node/parsers/image.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/parsers/index.js" afterPath="$PROJECT_DIR$/node_modules/superagent/lib/node/parsers/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/parsers/json.js" afterPath="$PROJECT_DIR$/node_modules/superagent/lib/node/parsers/json.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/parsers/text.js" afterPath="$PROJECT_DIR$/node_modules/superagent/lib/node/parsers/text.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/parsers/urlencoded.js" afterPath="$PROJECT_DIR$/node_modules/superagent/lib/node/parsers/urlencoded.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/response.js" afterPath="$PROJECT_DIR$/node_modules/superagent/lib/node/response.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/unzip.js" afterPath="$PROJECT_DIR$/node_modules/superagent/lib/node/unzip.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/lib/request-base.js" afterPath="$PROJECT_DIR$/node_modules/superagent/lib/request-base.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/lib/response-base.js" afterPath="$PROJECT_DIR$/node_modules/superagent/lib/response-base.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/lib/should-retry.js" afterPath="$PROJECT_DIR$/node_modules/superagent/lib/should-retry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/superagent/lib/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/package.json" afterPath="$PROJECT_DIR$/node_modules/superagent/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/superagent/yarn.lock" afterPath="$PROJECT_DIR$/node_modules/superagent/yarn.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commands/Beta/btc.js" afterPath="$PROJECT_DIR$/commands/Beta/btc.js" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -307,8 +63,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -355,11 +109,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Java/Games/CIA2/.idea" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -477,6 +234,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3872" height="2192" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -507,6 +265,9 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -519,6 +280,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/commands/Beta/btc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/commands/Beta/btc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">

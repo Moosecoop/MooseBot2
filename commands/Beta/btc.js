@@ -7,23 +7,27 @@ exports.run = (c, message) => {
       embed.setThumbnail('https://bitcoin.org/img/icons/opengraph.png')
       embed.setTimestamp()
       embed.setAuthor('MooseBot');
+      
+      
+      
   let Ttick = {};
   coinTicker('bitfinex', [ 'btcusd']) // when no asset pair is specified, coinTicker will default to 'btcusd'
 .then( tick => {
   console.log(tick)
-  embed.addField('Worth', `$${Ttick.ask}USD`)
   Ttick = tick;
+  embed.addField('Worth', `$${Ttick.last}USD`)
+  
 })
 
 
 
             message.channel.sendEmbed(embed);
-            var Client = require('coinbase').Client;
+            /*var Client = require('coinbase').Client;
 var client = new Client({'apiKey': mykey, 'apiSecret': mysecret});
 
             client.getBuyPrice({'currencyPair': 'BTC-USD'}, function(err, obj) {
   console.log('total amount: ' + obj.data.amount);
-});
+});*/
   }
 
 exports.conf = {

@@ -5,7 +5,7 @@ komada.start({
     botToken: token.discord,
     ownerID: '199621462586425346',
     clientID: '241714829788708864',
-    prefix: '.',
+    prefix: 'm?',
     clientOptions: {
         fetchAllMembers: true,
     },
