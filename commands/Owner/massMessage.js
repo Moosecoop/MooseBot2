@@ -1,12 +1,12 @@
 const Discord = require('discord.js');
 
-module.exports = (c, msg, [message]) => {
-    if(msg.author.id == config.ownerID){
-        var msg = command.splice(1).join(' ');
-        client.guilds.forEach((guild) => {
-        guild.generalChannel.sendMessage(message);
-        }) 
-      }
+exports.run = (c, msg, [message]) => {
+
+    var msg = command.splice(1).join(' ');
+    c.guilds.forEach((guild) => {
+        guild.defaultChannel.sendMessage(message);
+    });
+
 };
 
 exports.conf = {
@@ -21,7 +21,7 @@ exports.conf = {
 exports.help = {
     name: "mass",
     description: "for moose only",
-    usage: "<str:announcement>",
+    usage: "<message:str>",
     usageDelim: "",
     extendedHelp: "",
 };

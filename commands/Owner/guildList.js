@@ -16,20 +16,21 @@ exports.run = (client, msg) => {
 
 
     let servers = client.guilds.reduce((list, guild) => { list.push(`ID: ${guild.id} | Name: ${guild.name} | Members: ${guild.memberCount} | Invite: ${guild.fetchInvites()}`); return list; }, []);
+    console.log(`GUILDS:\n${guild.fetchInvites()}`);
     msg.channel.send(`\`\`\`**Guilds**\n${servers.join('\n')}\n Do .createInvite <guildID>\`\`\``);
 };
 
 exports.conf = {
     enabled: true,
     runIn: ["text", "dm", "group"],
-    aliases: [],
+    aliases: ["listguild", "listguilds", "guilds"],
     permLevel: 10,
     botPerms: [],
     requiredFuncs: [],
 };
 
 exports.help = {
-    name: "listguilds",
+    name: "guildlist",
     description: "lists MooseBot's current guilds.",
     usage: "",
     usageDelim: "",

@@ -44,4 +44,4 @@ exports.help = {
     name: 'btc',
     description: 'gets the current value of a cryptocurrency',
     usage: ''
-}
+};
